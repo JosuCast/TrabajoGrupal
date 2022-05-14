@@ -1,0 +1,100 @@
+body{
+    background: linear-gradient(150deg, rgb(207, 207, 207),rgb(247, 95, 95),rgb(88, 88, 88));
+    height:100%;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: #000;
+}
+
+#form{
+    margin: 0 auto;
+    width: 40%;
+    text-align: center;
+}
+.tab_tit{
+    border-collapse: collapse;
+    background-color: rgba(116, 116, 116, 0.459);
+   
+}
+
+#editar{
+    background-color: rgb(39, 29, 173);
+    color:rgb(218, 218, 218);
+    margin: 0;
+}
+
+#eliminar{
+    background-color: rgb(167, 70, 70); 
+    color:rgb(218, 218, 218);
+    margin: 0;
+}
+
+a{
+    text-decoration: none;
+    color: #fff;
+    padding: 10px;
+}
+form{
+    border: 1px #000 solid;
+    background-color: #fff;
+    width: 70%;
+    margin: 0 auto;
+}
+
+#btne{
+    background-color: blue;
+}
+
+.tit_rel{
+    color:rgb(207, 207, 216);
+    font-size:50px;
+    background-color:rgb(109, 8, 8);
+    margin:0;
+    text-align:center;
+    font-family: arial;
+    font-weight: bold;
+    padding: 15px;;
+   font-family: arial;
+    font-size: 30px;
+}
+
+.edicion{
+    background-color:rgb(53, 180, 15);
+    color:white;
+    font-weight: bold;
+    border:0;
+    padding:10px;
+    padding-left:20px;
+    padding-right:20px;
+}
+.guardar{
+    background-color:rgb(53, 180, 15);
+    color:white;
+    font-weight: bold;
+    border:0;
+    padding:10px;
+    padding-left:20px;
+    padding-right:20px;
+}
+
+.nuevo{
+    background-color: rgb(24, 168, 161);
+    width: 400px;
+    box-shadow: 7px 10px 20px rgb(45, 255, 255);
+}
+input{
+    color:white;
+    background-color: transparent;
+    border-top:0;
+    border-left:0;
+    border-right:0;
+    width: 200px;
+}
+
+::placeholder 
+{ color: rgb(255, 255, 255); 
+}
+

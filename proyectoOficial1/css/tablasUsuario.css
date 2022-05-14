@@ -1,0 +1,43 @@
+body{
+    background: linear-gradient(150deg, rgb(207, 207, 207),rgb(247, 95, 95),rgb(88, 88, 88));
+    height:100vh;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: #000;
+}
+
+#form{
+    margin: 0 auto;
+    width: 40%;
+    text-align: center;
+}
+.tab_tit{
+    border-collapse: collapse;
+    background-color: rgba(116, 116, 116, 0.459);
+   
+}
+
+.tit_rel{
+    color:rgb(207, 207, 216);
+    font-size:50px;
+    background-color:rgb(109, 8, 8);
+    margin:0;
+    text-align:center;
+    font-family: arial;
+    font-weight: bold;
+    padding: 15px;
+   font-family: arial;
+    font-size: 30px;
+}
+
+.nuevo{
+    background-color: rgb(145, 145, 145);
+    
+}
+
+#relaciones{
+    margin-left: 165px;
+}
